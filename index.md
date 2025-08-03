@@ -1,4 +1,5 @@
----
+Redmi A3
+24048RN6CG
 title: Kernel Self Protection Project
 layout: default
 redirect_from:
